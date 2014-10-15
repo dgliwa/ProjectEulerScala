@@ -4,6 +4,8 @@
     <modules>
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/projecteuler.iml" filepath="$PROJECT_DIR$/.idea/modules/projecteuler.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/projecteuler-build.iml" filepath="$PROJECT_DIR$/.idea/modules/projecteuler-build.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/projecteulerscala.iml" filepath="$PROJECT_DIR$/.idea/modules/projecteulerscala.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/projecteulerscala-build.iml" filepath="$PROJECT_DIR$/.idea/modules/projecteulerscala-build.iml" />
     </modules>
   </component>
 </project>
